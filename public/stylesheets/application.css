@@ -5,6 +5,17 @@ h1 {
 }
 
 p {
-    color: green;
     font-size: 36px ;
+}
+#mando {
+    color: brown;
+}
+
+#grogu {
+    color: green;
+}
+
+
+.tacos {
+    color:blueviolet
 }
